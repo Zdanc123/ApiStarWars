@@ -1,0 +1,17 @@
+C:\Users\Praktyka\Desktop\RepoStarWars\Actual\SWTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Praktyka\Desktop\RepoStarWars\Actual\SWTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Praktyka\Desktop\RepoStarWars\Actual\SWTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Praktyka\Desktop\RepoStarWars\Actual\SWTests\bin\Debug\netcoreapp2.1\SWTests.deps.json
+C:\Users\Praktyka\Desktop\RepoStarWars\Actual\SWTests\bin\Debug\netcoreapp2.1\SWTests.runtimeconfig.json
+C:\Users\Praktyka\Desktop\RepoStarWars\Actual\SWTests\bin\Debug\netcoreapp2.1\SWTests.runtimeconfig.dev.json
+C:\Users\Praktyka\Desktop\RepoStarWars\Actual\SWTests\bin\Debug\netcoreapp2.1\SWTests.dll
+C:\Users\Praktyka\Desktop\RepoStarWars\Actual\SWTests\bin\Debug\netcoreapp2.1\StarWars.dll
+C:\Users\Praktyka\Desktop\RepoStarWars\Actual\SWTests\bin\Debug\netcoreapp2.1\StarWars.pdb
+C:\Users\Praktyka\Desktop\RepoStarWars\Actual\SWTests\obj\Debug\netcoreapp2.1\SWTests.csprojAssemblyReference.cache
+C:\Users\Praktyka\Desktop\RepoStarWars\Actual\SWTests\obj\Debug\netcoreapp2.1\SWTests.csproj.CoreCompileInputs.cache
+C:\Users\Praktyka\Desktop\RepoStarWars\Actual\SWTests\obj\Debug\netcoreapp2.1\SWTests.AssemblyInfoInputs.cache
+C:\Users\Praktyka\Desktop\RepoStarWars\Actual\SWTests\obj\Debug\netcoreapp2.1\SWTests.AssemblyInfo.cs
+C:\Users\Praktyka\Desktop\RepoStarWars\Actual\SWTests\obj\Debug\netcoreapp2.1\SWTests.csproj.CopyComplete
+C:\Users\Praktyka\Desktop\RepoStarWars\Actual\SWTests\bin\Debug\netcoreapp2.1\SWTests.pdb
+C:\Users\Praktyka\Desktop\RepoStarWars\Actual\SWTests\obj\Debug\netcoreapp2.1\SWTests.dll
+C:\Users\Praktyka\Desktop\RepoStarWars\Actual\SWTests\obj\Debug\netcoreapp2.1\SWTests.pdb
